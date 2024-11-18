@@ -1,0 +1,13 @@
+button {
+  background: green;
+  padding: 5px;
+}
+
+h1,
+form {
+  text-align: center;
+}
+
+input {
+  padding: 5px;
+}
